@@ -52,7 +52,11 @@ This script automates the process of filling out a Timesheet google sheet for a 
 
 ## Running the Script
 
-1. Put the JSON key file in the same directory as the Python script.
+1. Clone this project:
+    ```bash
+    % git clone https://github.com/mauricio-jmmendes/timesheet-updater.git
+    ```
+2. Put the JSON key file in the same directory as the Python script.
 
 2. Update the script with your own data (name, spreadsheet name, service account file name).
 
