@@ -2,6 +2,14 @@
 
 This script automates the process of filling out a Timesheet google sheet for a user-defined week or a specific day. The script uses the Google Sheets and Google Drive APIs, and the `gspread` Python package.
 
+> **Note**
+>
+> The script is shared freely, without any charges and it is provided "as-is" without any warranties. Due to differences in system configurations, programming environments, Google API changes, and other factors, the script might not work out-of-the-box in all situations.
+> 
+> The process of creating a Google Service Account as outlined is generally known to be free of charge, but please note that Google's policies and pricing structures are subject to change. Users are strongly advised to verify the current terms, conditions, and potential costs associated with Google Service Accounts, Google APIs, and related services before using them.
+> 
+> Users of the script and Google services do so entirely at their own risk. The author or provider of this script is not responsible for any direct or indirect damages or any form of losses resulting from the use, misuse, or inability to use the script or Google services.
+
 ## Prerequisites
 
 1. Python 3 installed on your machine.
